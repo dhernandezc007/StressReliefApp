@@ -32,15 +32,6 @@ Architecture: Activity-based Android app
 
 Tools: Android Emulator / Physical Device Testing
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Concepts Demonstrated:
-Android activity lifecycle management
-
-Event handling and user interaction
-
-UI layout design and navigation
-
 Timers and background task handling
 
 Data persistence for user preferences
